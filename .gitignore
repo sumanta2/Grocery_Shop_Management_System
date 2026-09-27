@@ -1,0 +1,5 @@
+**/ConnectionStrings.config
+**/groceryshop.runasp.net-WebDeploy.publishSettings
+**/bin/
+**/obj/
+.vs/
